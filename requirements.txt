@@ -1,0 +1,25 @@
+# Core packages
+numpy
+pandas
+scikit-learn
+matplotlib
+
+# NLP & Tokenization
+nltk
+spacy
+transformers
+datasets
+sentencepiece
+
+# Language Models
+torch
+xgboost
+
+# Optional but recommended
+tqdm # to see the progress during training
+
+# For GPTZero / DetectGPT compatibility
+regex
+
+# Compatibility
+joblib
